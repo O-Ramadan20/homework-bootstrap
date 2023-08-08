@@ -1,0 +1,6 @@
+header{
+    min-height: 100vh;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.705),rgba(0, 0, 0, 0.711)), url(../images/home.jpg);
+    background-position: center;
+    background-size: cover;
+}
